@@ -1,4 +1,4 @@
-let msgInicial = confirm('Seja bem vindo(a), aventureiro(a)! Gostaria de pagar R$ 50,00 para passar a noite na nossa hospedagem?')
+const msgInicial = confirm('Seja bem vindo(a), aventureiro(a)! Gostaria de pagar R$ 50,00 para passar a noite na nossa hospedagem?')
 
 if(msgInicial){
     alert('Ótimo! Nós temos as melhores camas de toda a região!')
